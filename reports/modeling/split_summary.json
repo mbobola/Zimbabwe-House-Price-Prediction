@@ -1,0 +1,9 @@
+{
+  "rows": 2618,
+  "train": 1779,
+  "validation": 315,
+  "test": 524,
+  "local_images": 2607,
+  "seed": 42,
+  "best_multimodal_epoch": 9
+}

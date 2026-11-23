@@ -1,0 +1,3 @@
+model,mean_residual_usd,median_residual_usd,p90_absolute_error_usd,p95_absolute_error_usd,spearman_residual_vs_fitted,spearman_p_value
+Linear Ridge (structured + TF-IDF),39842.22034459095,-4839.012302983749,248567.25002820892,436858.1264983561,0.0747823040882752,0.0872377045375451
+Multimodal ResNet18 + text embeddings + MLP,9774.014372614503,2490.423828125,279056.0437499998,500973.5468749988,-0.19364650295772853,8.025119857154358e-06
